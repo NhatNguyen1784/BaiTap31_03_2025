@@ -36,6 +36,7 @@ android {
 }
 
 dependencies {
+    implementation ("me.relex:circleindicator:2.1.6")
     implementation ("androidx.viewpager2:viewpager2:1.0.0-alpha01")
     implementation("com.github.bumptech.glide:glide:4.14.2")
     annotationProcessor("com.github.bumptech.glide:compiler:4.14.2")

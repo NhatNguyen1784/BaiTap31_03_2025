@@ -22,12 +22,8 @@ import vn.hcmute.app.decoration.LinePagerIndicatorDecoration;
 import vn.hcmute.app.model.Icon;
 
 public class ShopeeActivity extends AppCompatActivity {
-
-
     private List<Icon> icons = new ArrayList<>();
-
     private IconAdapter iconAdapter;
-
     private RecyclerView rcvIcon;
     private SearchView searchIcon;
 
